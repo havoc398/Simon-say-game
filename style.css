@@ -24,11 +24,15 @@ body {
     background-color: #d95980;
 }
 .red {
-    background-color: #819ff9;
+    background-color: #d83b58
+    
 }
 .green {
-    background-color: #63aac0;
+    background-color: #819ff9;
 }
 .flash{
     background-color: white;
+}
+.userflash{
+    background-color: green;
 }
